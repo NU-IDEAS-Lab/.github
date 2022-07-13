@@ -1,6 +1,6 @@
 # Design Automation of Intelligent Systems Lab
 
-![campus](./campus.png)
+![campus](/profile/campus.png)
 
 Welcome to the IDEAS Lab at Northwestern University. This page contains source code repositories for much of our work.
 
